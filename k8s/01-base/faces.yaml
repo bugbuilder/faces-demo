@@ -39,7 +39,7 @@ spec:
         - name: FACES_SERVICE
           value: "face"
         - name: ERROR_FRACTION
-          value: "20"
+          value: "0"
         # - name: DELAY_BUCKETS
         #   value: "0,5,10,15,20,50,200,500,1500"
 ---
@@ -83,7 +83,7 @@ spec:
         - name: FACES_SERVICE
           value: "smiley"
         - name: ERROR_FRACTION
-          value: "20"
+          value: "0"
         - name: DELAY_BUCKETS
           value: "0,5,10,15,20,50,200,500,1500"
 ---
@@ -127,6 +127,6 @@ spec:
         - name: FACES_SERVICE
           value: "color"
         - name: ERROR_FRACTION
-          value: "20"
+          value: "0"
         - name: DELAY_BUCKETS
           value: "0,5,10,15,20,50,200,500,1500"
