@@ -39,7 +39,7 @@ spec:
         - name: FACES_SERVICE
           value: "face"
         - name: ERROR_FRACTION
-          value: "50"
+          value: "10"
         # - name: DELAY_BUCKETS
         #   value: "0,5,10,15,20,50,200,500,1500"
 ---
